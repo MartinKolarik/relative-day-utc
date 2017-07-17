@@ -1,0 +1,24 @@
+{
+	"name": "relative-day-utc",
+	"description": "Fast computation of relative dates.",
+	"version": "1.0.0",
+	"homepage": "https://github.com/MartinKolarik/relative-day-utc/",
+	"github": "https://github.com/MartinKolarik/relative-day-utc/",
+	"main": "index.js",
+	"keywords": [
+		"date"
+	],
+	"author": {
+		"name": "Martin Kolárik",
+		"email": "martin@kolarik.sk",
+		"url": "https://kolarik.sk"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinKolarik/relative-day-utc.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MartinKolarik/relative-day-utc/issues/"
+	}
+}
