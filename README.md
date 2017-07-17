@@ -11,8 +11,6 @@ $ npm install relative-day-utc
 ## Usage
 
 ```js
-// config/custom-environment-variables.js
-
 const relativeDayUtc = require('relative-day-utc');
 let yesterday = relativeDayUtc(-1);
 ```
