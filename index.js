@@ -1,5 +1,5 @@
-module.exports = (addDays = 0) => {
-	let date = new Date();
+module.exports = (addDays = 0, sinceDate = new Date()) => {
+	let date = new Date(sinceDate);
 	date.setDate(date.getDate() + addDays);
 	date.setUTCHours(0);
 	date.setUTCMinutes(0);
