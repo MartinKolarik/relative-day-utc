@@ -1,7 +1,7 @@
 {
 	"name": "relative-day-utc",
 	"description": "Fast computation of relative dates.",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"homepage": "https://github.com/MartinKolarik/relative-day-utc/",
 	"github": "https://github.com/MartinKolarik/relative-day-utc/",
 	"main": "index.js",
