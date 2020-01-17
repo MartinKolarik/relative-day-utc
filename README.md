@@ -11,7 +11,7 @@ $ npm install relative-day-utc
 or
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/relative-day-utc@1.2.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/relative-day-utc@1.2.1"></script>
 ```
 
 ## Usage
@@ -22,4 +22,4 @@ let yesterday = relativeDayUtc(-1);
 ```
 
 ## License
-Copyright (c) 2017 Martin Kolárik. Released under the MIT license.
+Copyright (c) 2017 - 2020 Martin Kolárik. Released under the MIT license.
