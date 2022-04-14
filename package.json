@@ -4,7 +4,8 @@
 	"version": "1.2.1",
 	"homepage": "https://github.com/MartinKolarik/relative-day-utc/",
 	"github": "https://github.com/MartinKolarik/relative-day-utc/",
-	"main": "index.umd.js",
+	"main": "index.js",
+	"browser": "index.umd.js",
 	"keywords": [
 		"date"
 	],
