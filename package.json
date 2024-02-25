@@ -6,6 +6,7 @@
 	"github": "https://github.com/MartinKolarik/relative-day-utc/",
 	"main": "index.js",
 	"browser": "index.umd.js",
+	"types": "index.d.ts",
 	"keywords": [
 		"date"
 	],
